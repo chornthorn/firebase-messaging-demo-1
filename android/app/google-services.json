@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566447618233",
+    "project_id": "flutter-bbt-service",
+    "storage_bucket": "flutter-bbt-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566447618233:android:8a6a61e2bffed8f1ab8368",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566447618233-foth5rsaq5fk7ejeopnge50cuch2v5ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVI2lkG0bBhRSI9K0RO3pGxxQfacNuE9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566447618233-foth5rsaq5fk7ejeopnge50cuch2v5ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
